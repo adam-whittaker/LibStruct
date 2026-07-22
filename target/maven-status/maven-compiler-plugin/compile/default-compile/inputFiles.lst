@@ -3,12 +3,14 @@ C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\geo\Rect.
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\intState\IntQuery.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\onOff\OnOffQuery.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\geo\Coord.java
+C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\lowMemory\CardinalIndexNeighbours.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\onOff\OnOffState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\enumState\EnumState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\intState\IntState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\intState\BoundedIntState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\interfaces\Movable.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\position\PositionQuery.java
+C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\lowMemory\ShortGrid.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\intState\PositionTo8BitIntStateAdapter.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\position\PositionState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\interfaces\RectQuery.java
