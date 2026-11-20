@@ -7,6 +7,8 @@ C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\lowMemory
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\onOff\OnOffState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\enumState\EnumState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\intState\IntState.java
+C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\setters\FunctionSetter.java
+C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\setters\ConsumerSetter.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\intState\BoundedIntState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\interfaces\Movable.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\position\PositionQuery.java
@@ -15,5 +17,7 @@ C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\in
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\states\position\PositionState.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\interfaces\RectQuery.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\interfaces\Boundable.java
+C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\setters\QuerySetter.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\interfaces\CoordQuery.java
+C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\setters\UpdateSetter.java
 C:\Users\Adam\IdeaProjects\LibStruct\src\main\java\com\mason\libstruct\geo\Size.java
